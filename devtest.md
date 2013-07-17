@@ -53,7 +53,7 @@ __(Note: all of the following commands should be run on your host machine, not i
    hardware virtualisation.
 
 1. Also check ssh server is running on the host machine and port 22 is open for
-   connections from virbr0 -  VirtPowerManager will boot VMs by sshing into the
+   connections from virbr0 -  VirtualPowerManager will boot VMs by sshing into the
    host machine and issuing libvirt/virsh commands. The user these instructions
    use is your own, but you can also setup a dedicated user if you choose.
 
